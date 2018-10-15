@@ -102,3 +102,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# content of figures
+figures/*
+
+# sprites
+data/sprites/*
+
+# pickle files
+*.p
